@@ -1,0 +1,24 @@
+{
+    "token": "123456", 
+    "guild_id": 123456,
+
+    "support_role_id": 123456,
+    "log_channel_id": 123456,
+
+    "ticket_category_id": 123456,
+    "ticket_private_role_ids": [123456],
+    "ticket_panel_channel_id": 123456,
+
+    "voice_channel_id": 123456,
+    "voice_notify_channel_id": 123456,
+    "voice_notify_role_id": 123456,
+
+    "application_category_id": 123456,
+    "application_log_channel_id": 123456,
+
+    "team_role_ids": {
+        "team_member": 123456,
+        "team_lead": 123456,
+        "admin": 123456
+    }
+}
