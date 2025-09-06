@@ -1,5 +1,6 @@
 This is a Open Source multifunctional Discord bot built with discord.py, designed to make server management easier and more engaging.
 It provides moderation tools, ticket & application systems, logging, announcements, and voice support features – all in one package.
+🚀Starting the bot:
 There are 3 ways to start it first you just double click the bot.py. second you can use the start-bot.bat (for windows) or the start-bot.sh (for linux)
 
 ✨ Features:
