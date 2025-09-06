@@ -25,3 +25,4 @@ It provides moderation tools, ticket & application systems, logging, announcemen
 Python 3
 
 discord.py with slash commands & UI components (buttons, modals, views)
+(I love Cats 😽😸)
